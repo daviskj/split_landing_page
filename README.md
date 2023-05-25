@@ -1,7 +1,9 @@
 # split_landing_page
 An example of a simple multi product landing page. Mouse hover on either left/right extends page in given direction.
 
-landing
+
+
+Landing
 
 ![Capture1](https://github.com/daviskj/split_landing_page/assets/98443655/e1b2399b-6432-4d0d-b8ae-d1245cede964)
 
