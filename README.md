@@ -1,5 +1,6 @@
 # split_landing_page
-An example of a simple multi product landing page. Mouse hover on either left/right extends page in given direction.
+An example of a simple multi-product landing page. Mouse hover on either left/right extends page in given direction.
+The 'Buy Now' buttons are not functional links fot the purpose of this project.
 
 
 
